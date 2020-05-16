@@ -8,4 +8,9 @@ public class Demo {
 		System.out.println("Group one is initially online Students");
 		
 	}
+	
+	//adding display method
+	public void display() {
+		System.out.println("hello from New York");
+	}
 }
