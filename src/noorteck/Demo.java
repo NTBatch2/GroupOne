@@ -12,5 +12,8 @@ public class Demo {
 	//adding display method
 	public void display() {
 		System.out.println("hello from New York");
+		System.out.println("When I try to push it gives me error");
+
 	}
+	
 }
