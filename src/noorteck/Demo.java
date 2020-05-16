@@ -6,7 +6,7 @@ public class Demo {
 		System.out.println("Group One");
 //		adding the new line of codes to the class.
 		System.out.println("Group one is initially online Students");
-
+	
 		int num1 = 20;
 		int num2 = 34;
 		if (num1 == num2) {
