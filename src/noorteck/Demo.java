@@ -46,4 +46,10 @@ public class Demo {
 		System.out.println("Make sure Saboor, Shahrzad, Lavetta and Andrea is pushing too...");
 	}
 
+	// New method
+	// HelloWolrd
+	public void StashClass() {
+		System.out.println("Saboor");
+		System.out.println("My Commit");
+	}
 }
