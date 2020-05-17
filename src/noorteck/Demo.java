@@ -17,8 +17,6 @@ public class Demo {
 //		adding my last codes for today 
 		System.out.println("The last codes for today, see you all tomorrow");
 
-	
-
 	}
 
 	// adding display method
@@ -27,6 +25,8 @@ public class Demo {
 		System.out.println("When I try to push it gives me error");
 
 		// umida second time adding
+//		Added the new line of code:
+		System.out.println("Good Morning EveryOne");
 	}
 
 }
