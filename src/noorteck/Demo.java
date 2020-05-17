@@ -22,6 +22,8 @@ public class Demo {
 	public void display() {
 		System.out.println("hello from New York");
 		System.out.println("When I try to push it gives me error");
+		
+		System.out.println("Hope Abdul fixed our code");
 
 		// umida second time adding
 		// Added the new line of code:
