@@ -6,4 +6,8 @@ public class Umida {
 		System.out.println("Hope everybody is happy with GitHub");
 		System.out.println("Great Job Umida");
 	}
+	
+	public void testData() {
+		System.out.println("Hello");
+	}
 }
