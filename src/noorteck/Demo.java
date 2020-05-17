@@ -45,7 +45,7 @@ public class Demo {
 		System.out.println("Why only Abdul and I are pushing codes only?");
 		System.out.println("Make sure Saboor, Shahrzad, Lavetta and Andrea is pushing too...");
 	}
-
+	
 	// New method
 	// HelloWolrd // My Second Commit !!! first is lost. Oh!
 	public void StashClass() {
