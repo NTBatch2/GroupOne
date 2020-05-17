@@ -10,4 +10,8 @@ public class Umida {
 	public void testData() {
 		System.out.println("Hello");
 	}
+	
+	public void test() {
+		System.out.println("this is Andrea");
+	}
 }
