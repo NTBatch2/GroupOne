@@ -47,9 +47,10 @@ public class Demo {
 	}
 
 	// New method
-	// HelloWolrd
+	// HelloWolrd // My Second Commit !!! first is lost. Oh!
 	public void StashClass() {
 		System.out.println("Saboor");
 		System.out.println("My Commit");
+		System.out.println("My Second Commit !!! first is lost. Oh!");
 	}
 }
