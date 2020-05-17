@@ -27,6 +27,8 @@ public class Demo {
 		// umida second time adding
 //		Added the new line of code:
 		System.out.println("Good Morning EveryOne");
+		System.out.println("Good Morning EveryOne, this section needs group practice lets be on the top of it");
+		
 	}
 
 	//Good morning Group 1. Have a successful day in GitHub!
